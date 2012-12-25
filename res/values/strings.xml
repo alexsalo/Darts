@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Darts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Darts1.2</string>
+
+    <string name="main_activity_startnew_button">Новая Игра</string>
+    <string name="main_activity_continue_button">Продолжить</string>
+    <string name="main_activity_settings_button">Настройки</string>
+    
+    <string name="newgame_activity_train_button">Тренировка</string>
+    <string name="newgame_activity_tournament_button">Турнир</string>
+    
+    <string name="dartboard_multiplier_x1">X1</string>
+    <string name="dartboard_multiplier_x2">X2</string>
+    <string name="dartboard_multiplier_x3">X3</string>
+    <string name="dartboard_bullseye_button">Яблочко</string>
+    <string name="dartboard_bull_button">Центральное</string>
+    <string name="dartboard_addresult">Добавить</string>
+    <string name="dartboard_inputtext_hint">Введите баллы</string>
+    <string name="dartboard_points">Очков</string>
+    <string name="dartboard_voice_header">Произнесите результат</string>
+    
+    <string name="toast_no_internet">Отсутствует интернет-соединение</string>
+    
+</resources>
