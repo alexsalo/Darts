@@ -136,8 +136,9 @@ containing a value of this type.
         public static final int dartboard_graphical=0x7f030000;
         public static final int dartboard_text_fragment=0x7f030001;
         public static final int game_activity=0x7f030002;
-        public static final int main_activity=0x7f030003;
-        public static final int newgame_activity=0x7f030004;
+        public static final int game_simpletable_activity=0x7f030003;
+        public static final int main_activity=0x7f030004;
+        public static final int newgame_activity=0x7f030005;
     }
     public static final class menu {
         public static final int activity_main=0x7f060000;
